@@ -1,15 +1,15 @@
 # Restable_inc_demo_repository
 
-What is Code Repo?
+1.What is Code Repo?
     Code Repo is shortened from of Code Repository, it is a storage for code and software development assets
 
-Why we need Code Repo?
+2.Why we need Code Repo?
     store and manage code 
     collaborate with others
     track changes
     share code publicly and privately
 
-Prominent code management tools in the industry
+3.Prominent code management tools in the industry
 
     distributed version control systems
         Git, Mercurial, Bazaar
@@ -20,7 +20,7 @@ Prominent code management tools in the industry
     flatform
         GitHub, GitLab, Bitbucket, Azure Dev Ops
 
-What is the use of Readme file and gitignore
+4.What is the use of Readme file and gitignore
 
     Readme - Source of documentation of project that informs developers and users about purpose , usage, installation, setup and contribution guidelines
 
